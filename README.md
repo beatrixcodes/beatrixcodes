@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋, I'm Kruthika Beatrix!</h1>
 <h3 align="center">A passionate data enthusiast from India!</h3>
 
-- 🌱 I’m currently learning **about Data Analytics and Machine Learning.**
+- 🌱 I’m currently learning ** Data Analytics and Machine Learning.**
 
 - 📫 How to reach me **kruthikabeatrix@gmail.com**
 
